@@ -13,3 +13,7 @@
 
 ![Wide Screen](./screenshots/wide-screen.jpg) 
 ![Small Screen](./screenshots/small-screen.jpg) 
+
+## Design Requirement
+
+![PSD Layout](./screenshot/web-design-psd.jpg)
