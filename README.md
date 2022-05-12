@@ -16,4 +16,4 @@
 
 ## Design Requirement
 
-![PSD Layout](./screenshot/web-design-psd.jpg)
+![PSD Layout](./screenshots/web-design-psd.jpg)
